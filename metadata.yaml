@@ -1,0 +1,40 @@
+_repo: Star-Hunter_19090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - Norton, Alice Mary
+    - Norton, Andre Alice
+    - North, Andrew
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: In the future, advanced technology has made it possible to perform "mind-swapping"
+  procedures that implant one person's memories, skills, beliefs, and feelings into
+  another's brain. Predictably, scam artists have begun to employ this technique for
+  nefarious purposes. In Star Hunter, that's exactly what happens to down-on-his-luck
+  janitor Vye Lansor, who finds himself on an unfamiliar planet with a new set of
+  memories. Will the ploy work, or will Lansor fight back? Read Star Hunter to find
+  out.
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2006-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Star Hunter
+url: http://www.gutenberg.org/ebooks/19090
